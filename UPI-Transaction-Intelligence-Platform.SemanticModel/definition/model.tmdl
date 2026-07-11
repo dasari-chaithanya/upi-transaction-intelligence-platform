@@ -1,0 +1,20 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["UPI Transactions"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'UPI Transactions'
+ref table DateTableTemplate_d6ea5fcc-6e8b-4f12-aac2-33a9dcc43462
+ref table LocalDateTable_4d634716-8e18-46b5-a92d-de35f406c372
+
+ref cultureInfo en-US
+

@@ -1,0 +1,9 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
