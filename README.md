@@ -7,13 +7,13 @@ This platform analyzes Unified Payments Interface (UPI) transaction data. Monito
 
 ## Dashboard Preview
 
-> **Note to Repository Owner**: Please add `transaction-overview.png` and `balance-analysis.png` to the `assets/screenshots/` folder to populate this preview.
-
 ### Transaction Overview
-![Transaction Overview](assets/screenshots/transaction-overview.png)
+
+![Transaction Overview Dashboard](assets/screenshots/transaction-overview.png)
 
 ### Balance Analysis
-![Balance Analysis](assets/screenshots/balance-analysis.png)
+
+![Balance Analysis Dashboard](assets/screenshots/balance-analysis.png)
 
 ## Business Questions
 The implemented dashboard can answer several critical business questions, such as:
