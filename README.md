@@ -5,6 +5,20 @@ An interactive Power BI dashboard for analyzing UPI transaction trends, customer
 ## Overview
 This platform analyzes Unified Payments Interface (UPI) transaction data. Monitoring transaction volumes, values, and remaining balances provides critical insight into economic activity, demographic preferences, and digital payment adoption. The dashboard enables users to interactively investigate payment behavior across multiple dimensions including banks, geography, demographics, and device usage.
 
+## Download & Open the Dashboard
+
+The GitHub source repository contains the source-controlled PBIP structure, while the GitHub Release provides a packaged downloadable version for users who simply want to open the dashboard.
+
+[Download Power BI Project v1.0.0](../../releases/download/v1.0.0/UPI-Transaction-Intelligence-Platform-v1.0.0.zip)
+
+1. Download the Power BI project ZIP.
+2. Extract the archive.
+3. Open the extracted project folder.
+4. Double-click `UPI-Transaction-Intelligence-Platform.pbip`.
+5. Open the project using Power BI Desktop.
+
+Requires Microsoft Power BI Desktop.
+
 ## Dashboard Preview
 
 ### Transaction Overview
